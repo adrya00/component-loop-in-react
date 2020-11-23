@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+\
+\
+Followed tutorial "How to Implement a Component Loop in React" from \
+https://www.pluralsight.com/guides/how-to-implement-a-component-%22loop%22-with-react
 
 ## Available Scripts
 
